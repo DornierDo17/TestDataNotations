@@ -1,0 +1,45 @@
+[
+    {
+      "feature": "Photo Sharing",
+      "description": "Allows users to upload and share photos.",
+      "launched": 2010,
+      "isPopular": true,
+      "category": "Social Media"
+    },
+    {
+      "feature": "Stories",
+      "description": "Temporary posts that disappear after 24 hours.",
+      "launched": 2016,
+      "isPopular": true,
+      "category": "Engagement"
+    },
+    {
+      "feature": "Reels",
+      "description": "Short, entertaining videos for creative expression.",
+      "launched": 2020,
+      "isPopular": true,
+      "category": "Video Content"
+    },
+    {
+      "feature": "Direct Messaging",
+      "description": "Private messaging between users.",
+      "launched": 2013,
+      "isPopular": true,
+      "category": "Communication"
+    },
+    {
+      "feature": "IGTV",
+      "description": "Long-form videos for creators.",
+      "launched": 2018,
+      "isPopular": false,
+      "category": "Video Content"
+    },
+    {
+      "feature": "Shopping",
+      "description": "E-commerce features allowing users to shop within the app.",
+      "launched": 2020,
+      "isPopular": true,
+      "category": "E-Commerce"
+    }
+  ]
+  
