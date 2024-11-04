@@ -1,0 +1,24 @@
+{
+    "name": "Facebook",
+    "founded": 2004,
+    "monthlyActiveUsers": 2.9,
+    "isPublic": true,
+    "founders": ["Mark Zuckerberg", "Eduardo Saverin"],
+    "headquarters": {
+      "city": "Menlo Park",
+      "state": "California",
+      "zipcode": 94025
+    },
+    "revenue": 117.92,
+    "acquisitions": [
+      {
+        "name": "Instagram",
+        "year": 2012
+      },
+      {
+        "name": "WhatsApp",
+        "year": 2014
+      }
+    ]
+  }
+  
